@@ -1,0 +1,36 @@
+
+{
+    "recipes": [
+      {
+        "id": 0,
+        "name": "Brownies",
+        "image": "/bronis.jpg",
+        "description": "Dijamin crispy di luar dan lembut di dalam.",
+        "details": "Fudgy Brownies",
+        "bahan": "40 gr butter <br>40 gr margarin <br>225 gr coklat dcc <br>200 gr gula halus <br>80 gr tepung <br>30 gr coklat bubuk <br>2 gr kopi bubuk <br>3 telur <br>1 sdt pasta vanilla <br>1/4 sdt soda kue <br>1 gr garam <br>",
+        "cara": "1. Lelehkan butter, margarin, dan coklat dcc. <br>2. Kocok telur & gula sampai larut. <br>3. Tambahkan lelehan butter, margarin, dan coklat dcc. <br>4. Aduk rata. <br>5. Masukkan tepung, kopi, coklat bubuk, soda kue, vanilla, dan garam. <br>6. Panaskan oven di suhu 180 derajat celcius selama 20 menit. <br>7. Tuang adonan ke loyang. <br>8. Panggang adonan selama 30 menit. <br>9. Jika sudah matang, tunggu brownies sampai dingin, baru dipotong kecil-kecil.",
+        "ready": "Brownies siap disajikan."
+      },
+      {
+        "id": 1,
+        "name": "Ice Cream",
+        "image":"/eskrim.jpg",
+        "description": "Rasakan kenikmatan lumernya eskrim di mulut.",
+        "details": "Chocolate Ice Cream",
+        "bahan": "1,5 cups susu <br>0,5 cup coklat bubuk <br>1 cup gula <br>2 cups heavy cream <br>1 sendok teh vanilla extract",
+        "cara": "1. Kocok susu, coklat bubuk, dan gula hingga larut dan rata. <br>2. Di wadah terpisah, kocok heavy cream hinggal mengental. <br>3. Campur rata heavy cream dan campuran susu, tambahkan vanilla extract. <br>4. Masukkan ke lemari pendingin (bukan freezer), setidaknya 30 menit. <br>5. Aduk lagi adonan eskrim agar nanti hasilnya lembut. <br>6. Masukkan ke freezer setidaknya 2 jam.",
+        "ready": "Es krim siap disajikan."
+      },
+      {
+        "id": 2,
+        "name": "Mochi",
+        "image": "/mochi.jpg",
+        "description": "Pasti kenyal lembut di mulut!",
+        "details": "Chocolate Mochi",
+        "bahan": "300 gr tepung ketan <br>10 gr coklat bubuk <br>50 gr minyak <br>250 gr air <br>2 gr vanili bubuk/ekstrak vanila <br>2 gr garam <br>140 gr kental manis putih <br>500 gr eskrim coklat <br>100 gr tepung tapioka sangrai",
+        "cara": "1. Siapkan mangkok, masukkan tepung ketan, kental manis, garam, coklat bubuk, minyak, vanila bubuk, dan air, aduk hingga rata. <br>2. Pindahkan adonan mochi ke dalam wadah tahan panas, tutup dengan aluminium foil, kukus selama 35-40 menit. <br>3. Uleni adonan yang sudah matang sampai kalis dan tidak lengket. <br>4. Taburkan tepung tapioka yang sudah disangrai agar mochi tidak lengket. <br>5. Pipihkan adonan, ambil 1 scoop eskrim, tutup adonan sampai rapat agar tidak ada eskrim yang bocor. <br>6. Balurkan mochi yang sudah jadi dengan tepung tapioka lagi. <br>7. Masukkan segera ke dalam freezer agar eskrim tidak meleleh.",
+        "ready": "Mochi siap disajikan."
+      }
+    ]
+  }
+  

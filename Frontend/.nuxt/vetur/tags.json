@@ -1,0 +1,29 @@
+{
+  "About": {
+    "description": "Auto imported from components/About.vue"
+  },
+  "Detail": {
+    "description": "Auto imported from components/Detail.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Homepage": {
+    "description": "Auto imported from components/Homepage.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "Resep": {
+    "description": "Auto imported from components/Resep.vue"
+  },
+  "Team": {
+    "description": "Auto imported from components/Team.vue"
+  },
+  "TeamMember": {
+    "description": "Auto imported from components/TeamMember.vue"
+  },
+  "Why": {
+    "description": "Auto imported from components/Why.vue"
+  }
+}

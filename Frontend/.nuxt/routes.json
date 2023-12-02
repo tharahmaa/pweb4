@@ -1,0 +1,26 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Athara\\\\Downloads\\\\Cipelipampam-main\\\\Frontend\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\Athara\\\\Downloads\\\\Cipelipampam-main\\\\Frontend\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Athara\\\\Downloads\\\\Cipelipampam-main\\\\Frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "recipe-id",
+    "path": "/recipe/:id?",
+    "component": "C:\\\\Users\\\\Athara\\\\Downloads\\\\Cipelipampam-main\\\\Frontend\\\\pages\\\\recipe\\\\_id.vue",
+    "chunkName": "pages/recipe/_id"
+  }
+]
